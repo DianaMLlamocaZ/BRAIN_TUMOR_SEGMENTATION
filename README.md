@@ -19,12 +19,14 @@
 
 
 ### - Modelos:
-- **modelo1.py:** UNet implementada desde cero, con pocos parámetros (menor a 1 millón)
+- **modelo1.py:**
+  - UNet implementada desde cero, con pocos parámetros (menor a 1 millón)
   - Modelo pequeño de prueba para verificar el *load* correcto de los datos.
+  - **Objetivo:** Analizar el performance frente al modelo 2.
     
-- **modelo2.py:** UNet implementada desde cero, con más parámetros (mayor a 4 millones)
-  - UNet implementada desde cero: DownSampling, Bottleneck, UpSampling.
-  - Adicional, contiene la operación *crop* para permitir la concatenación los feature maps generados por el encoder (mayor tamaño) con los creados por el decoder (menor tamaño). Y, así, permitir las *concatenation skip connections*.
+- **modelo2.py:**
+  - UNet implementada desde cero, con más parámetros (mayor a 4 millones)
+  - Adicional, contiene la operación *crop* para permitir la concatenación de los feature maps generados por el encoder (mayor tamaño) con los creados por el decoder (menor tamaño). Y así, permitir las *concatenation skip connections*.
 
 ### - Training:
 - **training.py:**
