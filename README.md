@@ -10,4 +10,5 @@
 - **custom_dataset.py:**
   - Archivo que contiene el código para la creación del custom dataset.
   - Objetivo: Para evitar cargar todas las imágenes y máscaras en memoria, se creó el custom dataset con la finalidad de obtener imágenes solo en el momento de su utilización --> Lazy load.
+  - **Nota:** Ya incluye el preprocesamiento de las imágenes y máscaras
   
