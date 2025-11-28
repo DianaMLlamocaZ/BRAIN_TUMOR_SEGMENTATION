@@ -16,4 +16,5 @@
   - Lee el archivo json (donde se encuentran las anotaciones) y retorna el nombre de la imagen más el *bounding box* (contorno) de la máscara de segmentación.
   - **Objetivo:** Función útil para permitir el *lazy load* en el custom dataset.
 
-  
+- **metrics.py:**
+  - Contienen las **loss functions** y métricas a utilizar para entrenar y evaluar el **performance** del modelo.
