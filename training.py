@@ -3,7 +3,7 @@ import torch
 
 from custom_dataset import DatasetMI
 from model1 import SkipC_CNN
-from model3 import UNet
+from model2 import UNet
 from metrics import dice_loss
 
 import random, numpy as np
