@@ -14,6 +14,6 @@
   
 - **read_img_json:**:
   - Lee el archivo json (donde se encuentran las anotaciones) y retorna el nombre de la imagen más el *bounding box* (contorno) de la máscara de segmentación.
-    Útil para el *lazy load* en el custom dataset.
+  - **Objetivo:** Función útil para permitir el *lazy load* en el custom dataset.
 
   
