@@ -8,7 +8,7 @@
 
 ## Código
 ### - Load Data:
-- **(custom_dataset.py)[./custom_dataset]:**
+- **[custom_dataset.py](./custom_dataset):**
   - Archivo que contiene el código para la creación del custom dataset.
   - **Objetivo:** Para evitar cargar todas las imágenes y máscaras en memoria, se creó el custom dataset con la finalidad de obtener los datos solo en el momento de su utilización --> Lazy load.
   - **Nota:** Incluye el preprocesamiento de las imágenes y máscaras (se puede aplicar Data Augmentation)
