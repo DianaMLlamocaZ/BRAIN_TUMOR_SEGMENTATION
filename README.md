@@ -37,3 +37,9 @@
 - **metrics.py:**
   - Contienen las **loss functions** y métricas a utilizar para entrenar y evaluar el **performance** del modelo.
   - **Objetivo:**: Facilitar el uso directo de loss functions y métricas durante el entrenamiento y evaluación.
+
+====
+
+## Entrenamiento
+- El entrenamiento se realizó en Kaggle por el uso de GPU.
+- ¡Aquí puedes encargar el link! [NotebookTraining](./)
