@@ -50,3 +50,13 @@
 ## Entrenamiento
 - El entrenamiento se realizó en Kaggle por el uso de GPU.
 - ¡Aquí puedes encontrar el Notebook! [TrainingNotebook](./)
+- Resultados
+  - Train Loss
+    <div align="center">
+      <img src="">
+    </div>
+
+  - Validation Loss
+    <div align="center">
+      <img src="">
+    </div>
