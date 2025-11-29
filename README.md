@@ -60,11 +60,17 @@
     <div align="center">
       <img src="./IMAGES/ValidLoss.JPG">
     </div>
-
+- El modelo alcanza un Dice Loss de aprox. 0.3 --> Dice Coefficient de 0.7
 ====
 
 ## Predicciones
 - A continuación, se muestran algunas predicciones de segmentación del modelo:
   <div align="center">
-    <img src="./IMAGES/Prediction.JPG>
+    <img src="./IMAGES/Prediction.JPG">
   </div>
+
+
+====
+## Mejoras
+- Incluir mayor preprocesamiento en las imágenes.
+- Agregar capas de batch normalization para estabilidad y eficiencia durante el entrenamiento.
