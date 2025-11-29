@@ -61,6 +61,7 @@
       <img src="./IMAGES/ValidLoss.JPG">
     </div>
 - El modelo alcanza un Dice Loss de aprox. 0.3 --> Dice Coefficient de 0.7
+
 ====
 
 ## Predicciones
