@@ -66,5 +66,5 @@
 ## Predicciones
 - A continuación, se muestran algunas predicciones de segmentación del modelo:
   <div align="center">
-    <img src="./IMAGES/Prediction>
+    <img src="./IMAGES/Prediction.JPG>
   </div>
