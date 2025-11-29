@@ -17,6 +17,9 @@
   - Lee el archivo json (donde se encuentran las anotaciones) y retorna el nombre de la imagen más el *bounding box* (contorno) de la máscara de segmentación.
   - **Objetivo:** Función útil para permitir el *lazy load* en el custom dataset.
 
+<div align="center">
+  <img src="./IMAGES/DatasetAndDataloader.png">
+</div>
 
 ### - Modelos:
 - **[modelo1.py](./modelo1.py):**
