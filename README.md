@@ -53,10 +53,18 @@
 - Resultados
   - Train Loss
     <div align="center">
-      <img src="">
+      <img src="./IMAGES/TrainLoss.JPG">
     </div>
 
   - Validation Loss
     <div align="center">
-      <img src="">
+      <img src="./IMAGES/ValidLoss.JPG">
     </div>
+
+====
+
+## Predicciones
+- A continuación, se muestran algunas predicciones de segmentación del modelo:
+  <div align="center">
+    <img src="./IMAGES/Prediction>
+  </div>
