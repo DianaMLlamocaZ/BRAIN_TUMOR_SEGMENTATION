@@ -27,6 +27,10 @@
 - **[modelo2.py](./modelo2.py):**
   - UNet implementada desde cero, con más parámetros (mayor a 4 millones)
   - Adicional, contiene la operación *crop* para permitir la concatenación de los feature maps generados por el encoder (mayor tamaño) con los creados por el decoder (menor tamaño). Y así, permitir las *concatenation skip connections*.
+ 
+<div align="center">
+  <img src="./IMAGES/Unet.jpg">
+</div>
 
 ### - Training:
 - **[training.py](./training.py):**
